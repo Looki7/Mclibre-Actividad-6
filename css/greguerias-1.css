@@ -1,0 +1,61 @@
+body {
+  background-color: hsl(145, 50%, 35%);
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+  text-transform: capitalize;
+}
+
+p {
+  font-size: 24px;
+}
+
+.infancia {
+  font-family: serif;
+  color: white;
+  font-style: italic;
+}
+
+.animales {
+  color: hsl(35, 100%, 85%);
+}
+
+.literatura {
+  font-family: monospace;
+  color: hsl(35, 100%, 55%);
+  font-size: 26px;
+}
+
+.números {
+  font-family: cursive;
+  color: hsl(345, 80%, 50%);
+  margin-bottom: 54px;
+}
+
+a {
+  font-style: italic;
+  color: blue;
+}
+
+cite {
+  font-style: normal;
+}
+
+.float-footer {
+  text-align: center;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  border-top: 2px black solid;
+  font-size: 12.8px;
+  font-family: sans-serif;
+  height: 30px;
+  line-height: 25px;
+  clear: both;
+}
